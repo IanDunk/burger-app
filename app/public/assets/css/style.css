@@ -17,3 +17,9 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+
+#burger-img {
+  width: 80%;
+  padding: 15px;
+}

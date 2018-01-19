@@ -57,8 +57,6 @@ router.delete("/api/burgers/:id", function (req, res) {
       res.status(200).end();
     }
   });
-
-  
 });
 
 router.get("/burger/:id", function (req, res) {
